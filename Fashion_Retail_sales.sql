@@ -1,17 +1,16 @@
-# Flight Analytics
-**Created by:** Gaurang Kumbhar  
-**Email:** gaurang.kumbhar1332003@gmail.com  
-## Overview
-This project focuses on performing in-depth analysis of flight data using SQL. It demonstrates the application of advanced SQL techniques, including:
-- **Window Functions**  
-- **Aggregate Functions**  
-- **CASE Statements**
-These concepts are used to extract meaningful insights, rank and compare flight performance, and segment data based on various conditions.
-## Purpose
-This repository serves as a reference for understanding and applying complex SQL queries in real-world data scenarios, especially in the context of aviation and flight datasets.
+Fashion Sales Analysis
+Created by: Gaurang Kumbhar
+Contact: gaurang.kumbhar1332003@gmail.com
 
+Overview
+This project provides a comprehensive analysis of fashion sales data using SQL. It focuses on deriving valuable insights through the application of advanced SQL functionalities.
 
+Key SQL Concepts Used
+Window Functions: Utilized for performing calculations across rows related to the current row, such as running totals, rankings, and moving averages.
+Aggregate Functions: Used to summarize data across groups, including SUM(), AVG(), COUNT(), and others.
+CASE Statements: Employed for conditional logic to create categorized or custom-calculated fields within queries.
 
+The goal of this project is to demonstrate practical use of SQL techniques in analyzing business data, specifically in the fashion retail industry. It serves as a reference for anyone looking to apply SQL in real-world analytics scenarios
 
 
 
