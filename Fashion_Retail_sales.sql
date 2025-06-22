@@ -1,3 +1,21 @@
+# Flight Analytics
+**Created by:** Gaurang Kumbhar  
+**Email:** gaurang.kumbhar1332003@gmail.com  
+## Overview
+This project focuses on performing in-depth analysis of flight data using SQL. It demonstrates the application of advanced SQL techniques, including:
+- **Window Functions**  
+- **Aggregate Functions**  
+- **CASE Statements**
+These concepts are used to extract meaningful insights, rank and compare flight performance, and segment data based on various conditions.
+## Purpose
+This repository serves as a reference for understanding and applying complex SQL queries in real-world data scenarios, especially in the context of aviation and flight datasets.
+
+
+
+
+
+
+
 CREATE DATABASE fashion_retail;
 USE fashion_retail;
 
